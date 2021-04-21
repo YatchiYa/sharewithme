@@ -1,0 +1,21 @@
+Another Proud Upload by CracksHash.com
+==================================================
+
+Instructions :-
+
+1. Run the bat file.
+2. The file will generate an exe file named "W10DigitalActivation.exe".
+3. Run the exe file and click on "Activate" to activate the windows.
+4. That's it, Enjoy now ;)
+
+
+
+
+
+VirusTotal -
+https://www.virustotal.com/gui/file/f7f101915bf890d78aebcdb26bc6433787148764db5695f303feb9b258f7dee3/detection
+
+Hybrid-
+https://www.hybrid-analysis.com/sample/f7f101915bf890d78aebcdb26bc6433787148764db5695f303feb9b258f7dee3
+
+>>>>>>>>> CracksHash.com <<<<<<<<<<
